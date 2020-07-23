@@ -2,4 +2,8 @@ git branch training
 
 batch 1 day 1
 
+
 batch 2 July 23rd
+
+July 23rd 2020 - Class 3
+
