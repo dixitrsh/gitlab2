@@ -1,1 +1,3 @@
-dev ops training batch - Day 2 July'2020
+dev ops training batch - Day 3 July'2020
+
+Cloud Dev ops
